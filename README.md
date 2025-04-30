@@ -17,7 +17,7 @@ A secure login and registration system with role-based access control (RBAC).
 ## Technologies
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: Flask (Python) / Node.js
+- Backend: Flask (Python) 
 - Database: MySQL
 - Security: JWT, bcrypt, reCAPTCHA
 
@@ -25,5 +25,5 @@ A secure login and registration system with role-based access control (RBAC).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/user-auth-system.git
+   git clone https://github.com/AishaA8550/-python-login-page
    cd user-auth-system
